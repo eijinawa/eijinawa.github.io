@@ -19,8 +19,10 @@ Information and Communications Technology (NICT)</a>.
 href="https://plato.stanford.edu/entries/emotion/">emotions</a></i>. How
 they come to be when we recall fond memories of our past? How do they
 interact with fundamental cognitive capacities such as attention? What
-are the benefits regularly engaging with positive
-emotions such as gratitude, specially when it comes to our well-being?
+benefits arise from regularly engaging with positive emotions such as
+gratitude, specially when it comes to our well-being? Most
+importantly, what are the neurobiological mechanisms driving these
+relationships?
 
 <p> To tackle such questions, we employ neuroimaging, psychophysiology
 and online/face-to-face behavioral experiments, using a variety of different analytical methods. It is a challenging
