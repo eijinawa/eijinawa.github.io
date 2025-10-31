@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - "_publications/TEMPLATE-new-paper.md"
 keep_files:
   - .git
   - .svn
